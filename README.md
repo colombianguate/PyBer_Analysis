@@ -16,3 +16,7 @@ pyber_summary_df = pd.DataFrame({
           "Average Fare per Driver": avg_fare_per_driver})
 
 ```
+As a result we got the following table:
+![line_image](analysis/pybersummary.png)
+
+
