@@ -16,5 +16,3 @@ pyber_summary_df = pd.DataFrame({
           "Average Fare per Driver": avg_fare_per_driver})
 
 ```
-Our results from the summary Dataframe is below:
-
