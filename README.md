@@ -16,7 +16,15 @@ pyber_summary_df = pd.DataFrame({
           "Average Fare per Driver": avg_fare_per_driver})
 
 ```
+### Pyber Summary 
 As a result we got the following table:
 ![line_image](analysis/pybersummary.png)
 
+From the result above, one observation is that while Ubran had the most rides, it also had more drivers which resulted in drivers gaining less. It could be due to the large number of rides in Ubran area. A small sample size of drivers could not keep up with the demand of rides.
 
+
+### Line chart Per City type 
+
+![line-image](analysis/PyBer_fare_summary.png)
+
+Suburban fares from January to mid Febuary were steady, then there was a bug spike by the end of Febuary but the last week there was a big dip in fares as well. Rural had the less fares but as seen on the line chart it was the most steady, we a few big spikes in end of Febuaru and at the start of April.
