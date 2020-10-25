@@ -27,4 +27,12 @@ From the result above, one observation is that while Ubran had the most rides, i
 
 ![line-image](analysis/PyBer_fare_summary.png)
 
-Suburban fares from January to mid Febuary were steady, then there was a bug spike by the end of Febuary but the last week there was a big dip in fares as well. Rural had the less fares but as seen on the line chart it was the most steady, we a few big spikes in end of Febuaru and at the start of April.
+Suburban fares from January to mid Febuary were steady, then there was a big spike by the end of Febuary but the last week there was a big dip in fares as well. Rural had the less fares but as seen on the line chart it was the most steady, with a few big spikes in end of Febuary and at the start of April. Urban was consistent through Jan-Mar but then March through April was inconsistent because it went up and down.
+
+
+## Summary (Three business recommendations)
+- Ubran areas could see in an increase of the fare price due to the high demand of riders to compensate the drivers.
+
+- The end of Febuary due to high demand in rides, PyBer could use a surcharge to keep up.
+
+- Ubran drivers can help out in Rural areas where there are less rides but not enough drivers.
